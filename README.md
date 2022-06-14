@@ -2,7 +2,7 @@
 
 Este projeto foi criado com o intuito de colocar em prática meus
 os conhecimentos adquiridos. A ideia inicial é desenvolver
-um `Interface de Usuário de Feedback` para se aprofundar em CSS e javascript e também foi o meu primeiro projeto que utilizei emojis.
+uma `Interface de Usuário de Feedback` para se aprofundar em CSS e javascript e também foi o meu primeiro projeto que utilizei emojis.
 
 ## 📁 Acesso ao projeto
 
