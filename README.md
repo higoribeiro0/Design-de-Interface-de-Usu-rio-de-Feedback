@@ -6,13 +6,15 @@ uma `Interface de Usuário de Feedback` para se aprofundar em CSS e javascript e
 
 ## 📁 Acesso ao projeto
 
+Live preview: https://lnkd.in/dYncWGYa
+
 Para você colocar este projeto em funcionamento, basta você clonar este
 projeto ou fazer download e executar o arquivo `index.html` em seu
 navegador.
 
 ## 🛠️ Abrir e rodar o projeto
 
-Para desenvolver este projeto utilizei o navegador Google Chrome Versão 67.
+Para desenvolver este projeto utilizei o navegador Google Chrome.
 Então para conseguir colocar este projeto em funcionamento em sua máquina,
 você precisará de um navegador compatível.
 
