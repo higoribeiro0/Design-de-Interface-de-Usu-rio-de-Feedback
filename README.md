@@ -6,7 +6,7 @@ uma `Interface de Usuário de Feedback` para se aprofundar em CSS e javascript e
 
 ## 📁 Acesso ao projeto
 
-Live preview: https://lnkd.in/dYncWGYa
+Live preview: https://lnkd.in/dH9u6-eV
 
 Para você colocar este projeto em funcionamento, basta você clonar este
 projeto ou fazer download e executar o arquivo `index.html` em seu
